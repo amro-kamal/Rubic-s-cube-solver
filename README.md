@@ -1,6 +1,11 @@
 # Rubic-s-cube-solver-robot
-This is an arduino  code for a Rubic's cube solver robot.The code is a Brute Force Algorithms representing Fridrish method for solving Rubic's cube
-The robot uses 6 stepper motors to move to the cube .The code is too long ,i think it still needs some reviewing.
+This is an Arduino  code for solving the Rubic's cube with a 6-motors robot. The code is a Brute Force Algorithms representing Fridrish method for solving Rubic's cube.
+
+The robot uses 6 stepper motors to move to the cube's faces. The code is too long ,i think it still needs some reviewing.
+
+
+![image](https://user-images.githubusercontent.com/37993690/141203946-2126ecb2-61a7-4768-b27a-488555681d09.png)
+
 
 .
 .
