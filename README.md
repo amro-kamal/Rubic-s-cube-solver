@@ -15,4 +15,4 @@ The robot uses 6 stepper motors to move to the cube's faces. The code is too lon
 .
 .
 .
-#Thanks to all my Colleagues who help writing this code
+#Thanks to all my Colleagues put effort on this code
